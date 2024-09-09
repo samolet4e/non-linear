@@ -1,0 +1,119 @@
+# Created by Octave 9.1.0, Thu Apr 04 12:59:22 2024 GMT <unknown@DESKTOP-KHTRNAN>
+
+# name: Ixx
+# type: scalar
+2505.9
+
+
+# name: Ixy
+# type: scalar
+49.0
+
+
+# name: Iyy
+# type: scalar
+6622.2
+
+
+# name: Ixz
+# type: scalar
+196.9
+
+
+# name: Iyz
+# type: scalar
+3.0
+
+
+# name: Izz
+# type: scalar
+8467.1
+
+
+# name: S
+# type: scalar
+16.29
+
+
+# name: wspan
+# type: scalar
+10.125
+
+# name: wchord
+# type: scalar
+1.65
+
+
+# name: g
+# type: scalar
+9.80665
+
+
+# name: m
+# type: scalar
+1866.1
+
+
+# name: CD
+# type: scalar
+0.025
+
+
+# name: Cyb
+# type: scalar
+-0.7735
+
+
+# name: CydR
+# type: scalar
+0.1885
+
+
+# name: CLa
+# type: scalar
+5.1222
+
+
+# name: CLdE
+# type: scalar
+0.3151
+
+
+# name: Clp
+# type: scalar
+-5.08E-01
+
+
+# name: CldA
+# type: scalar
+-0.1083
+
+
+# name: Cma
+# type: scalar
+-0.4412
+
+
+# name: Cmq
+# type: scalar
+-1.44E+01
+
+
+# name: CmdE
+# type: scalar
+-1.2319
+
+
+# name: Cnb
+# type: scalar
+0.0808
+
+
+# name: Cnr
+# type: scalar
+-2.01E-01
+
+
+# name: CndR
+# type: scalar
+-0.1157
