@@ -7,7 +7,7 @@ Control sequence might be changed in \PC-9Mq\private\controls.m
 
 Watch a video:
 
-https://youtu.be/KHJLr_1eJ1s
+https://youtu.be/4tQ3uk8vD9o
 
 Credits:
 
